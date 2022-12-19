@@ -1,7 +1,8 @@
 #include <stdio.h>
+#include <stdlib.h>
 
-
-void exercicio01() {
+void main() 
+{
     float base, altura, area;
 
     printf("Exercicio 01 - escreva a base e altura :");
@@ -9,13 +10,6 @@ void exercicio01() {
 
     area = base * altura / 2;
     printf("Area = %.2f\n", area);
-}
-
-
-
-int main() {
-
-    exercicio01();
    
     return 0;
 }
