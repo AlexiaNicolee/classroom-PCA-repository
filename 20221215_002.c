@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main()
+int 20221215_002()
 {
     int notabimestre1,notabimestre2 ,notabimestre3 ,notabimestre4, media;
     printf("\n media entre os 4 bimestres");
