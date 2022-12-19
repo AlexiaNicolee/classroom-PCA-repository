@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main()
+int 20221215_001()
 {
     int num1,num2 ,soma;
     printf("\n soma entre dois numeros");
