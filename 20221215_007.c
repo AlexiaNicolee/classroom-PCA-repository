@@ -5,7 +5,7 @@ void main()
 {
     float C,F;
 
-    printf(" Informe a temperatura em Fahreinheit: \n");
+    printf(" Transformando a temperatura de fahreinheit para celsius \n Informe a temperatura em Fahreinheit: \n");
     scanf ("%f", &F);
 
     C = (5 * (F-32) / 9);
