@@ -9,7 +9,7 @@ int main ()
     printf("\n Entre com o numero 1 :");
     scanf ("%d",&num1 );
 
-    printf ("\n Entre com o numero 2:");
+    printf ("\n Entre com o numero 2 :");
     scanf ("%d",&num2 );
 
     soma = num1 + num2;
