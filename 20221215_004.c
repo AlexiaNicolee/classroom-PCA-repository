@@ -4,7 +4,7 @@
     void main()
 {
     float raio, area ;
-    printf("\n Area de um circulo");
+    printf("\n Calculando a area de um circulo");
     printf("\n Entre com o raio :");
     scanf ("%f",&raio );
 
