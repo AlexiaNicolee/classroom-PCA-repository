@@ -1,15 +1,16 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void main() 
+void main()
 {
-    float salario;
+    float salario,novosalario;
 
-    printf("Exercicio 02 - Qual o seu salario?");
+    printf("Exercicio 02 - Qual o seu salario? ");
     scanf("%f", &salario);
 
-    float novosalario = salario * 1.10;
+    novosalario = salario * 1.10;
+
     printf("Se o seu salario aumenta 10%%, voce ganhara R$%.2f\n", novosalario);
-    
+
     return 0;
 }
