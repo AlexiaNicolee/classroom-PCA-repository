@@ -3,9 +3,11 @@
 int main() {
 	int i, j, n, m;
 
-	printf("Digite as dimensıes das Matrizes:\n");
+	printf("Digite as dimens√µes das Matrizes:\n");
 	printf("Num de linhas: ");
+	
 	scanf("%d", &n);
+	
 	printf("Num de colunas: ");
 	scanf("%d", &m);
 
